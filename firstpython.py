@@ -1,4 +1,3 @@
-1 #display the output
-2
-3 print("New Python File")
-4
+#display the output
+
+Print("New Python File")
